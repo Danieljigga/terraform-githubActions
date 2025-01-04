@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create and manage infrastructure using Terraform and automate the deployment process with GitHub Actions.
 
 ![Project Flow](https://github.com/gauri17-pro/vpc-terraform-github-actions/assets/60473255/0e09102c-2949-4576-be43-39900a2c1a95)
@@ -31,3 +32,6 @@ Before you begin, ensure you have the following prerequisites:
 * happy learning
 
 
+=======
+# terraform-githubActions
+>>>>>>> 91008387dff721a094a4562cce5bcb5dc1da257d
